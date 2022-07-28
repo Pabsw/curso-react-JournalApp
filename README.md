@@ -1,0 +1,1 @@
+# JournalApp creada mediante el curso de React
